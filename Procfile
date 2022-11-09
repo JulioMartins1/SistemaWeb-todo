@@ -1,1 +1,1 @@
-web: gunicorn==20.0.4
+web: gunicorn caralho.wsgi
